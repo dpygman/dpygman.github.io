@@ -1,7 +1,7 @@
 # main links
 main:
-  #- title: "Data Analytics"
-  #  url: 
+- title: "Certificates"
+  url: /_pages/certificates.md/
   #- title: "Python"
   #  url: 
   # - title: "Sample Posts"
