@@ -4,10 +4,10 @@ date: 2020-03-09
 tags: [website, user interface]
   image: "assets/images/Bird.jpeg"
 excerpt: "Website Build"
+mathjax: "true"
 ---
 
-Hello and welcome to my Portfolio website build, and remember to always carefully consider mom's advice.
-<img src="{{ site.url }}{{ site.baseurl }}/assts/images/Bird.jpeg" alt="Mom's Advice">
+Hello and welcome to my Portfolio website build. Please find some simple code examples below to get started.
 
 Python Code Block:
 ```python
@@ -26,3 +26,11 @@ head(df)
 ```
 
 Inline Code `x+y`
+
+Math
+
+$$z=x+y$$
+
+or
+
+$$z=X+y$$
