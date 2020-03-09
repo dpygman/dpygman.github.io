@@ -17,7 +17,7 @@ Hello and welcome to my Portfolio website build. Please find some simple code ex
       return z
 ```
 
-### Fun with Python Code
+### Fun with Python Code:
 ```
 `print("Roses are red")`
 `print("Violets are blue")`
@@ -38,12 +38,12 @@ Pilots are blue
 I love to watch The Bachelor with my wife too  
 
 
-### R Code Block
+### R Code Block:
 ```r
 library(tidyverse)
 df <- read_csv("some_file.csv")
 head(df)
 ```
 
-### Inline Code
+### Inline Code:
 `x+y`
