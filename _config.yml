@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "David R. Pygman, MBA"
-  avatar           : "/assets/images/David.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/David2.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist, Business Intelligence, Healthcare, Software Development"
   location         : "Scottsdale, AZ"
   email            :
