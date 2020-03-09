@@ -7,6 +7,7 @@ excerpt: "Website Build"
 ---
 
 Hello and welcome to my Portfolio website build, and remember to always carefully consider mom's advice.
+<img src="{{ site.url }}{{ site.baseurl }}/assts/images/Bird.jpeg" alt="Mom's Advice">
 
 Python Code Block:
 ```python
