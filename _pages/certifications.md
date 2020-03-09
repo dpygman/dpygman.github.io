@@ -1,5 +1,6 @@
 # Python
-1. Machine Learning with Python
+1. Machine Learning with Python, IBM
+  - Recommender Systems, Content-Based Retrieval, Collaborative Filtering
 
 # SQL
 
