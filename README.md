@@ -1,5 +1,7 @@
 # David Pygman's Portfolio Page Readme
 
+Hello and welcome to my under construction Portfolio page.
+
 ### Code Pen
 
 #### Future Data Analytics _pages file
