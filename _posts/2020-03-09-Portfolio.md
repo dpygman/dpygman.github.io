@@ -2,8 +2,6 @@
 title: "Profolio Website Buildout"
 date: 2020-03-09
 tags: [website, user interface]
-header:
-  image: "assets/images/Bird2.jpeg"
 excerpt: "Website Build"
 
 ---
@@ -42,9 +40,9 @@ Enter a color or something fun: `wrong`
 Enter a plural noun or something fun: `Pilots`  
 Enter a celebrity or something fun: `to watch The Bachelor with my wife too` 
 
-Roses are wrong**   
-Pilots are blue**  
-I love to watch The Bachelor with my wife too.**
+Roses are wrong     
+Pilots are blue  
+I love to watch The Bachelor with my wife too  
 
 
 ### Inline Code
