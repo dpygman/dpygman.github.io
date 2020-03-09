@@ -17,13 +17,6 @@ Hello and welcome to my Portfolio website build. Please find some simple code ex
       return z
 ```
 
-### R Code Block
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
 ### Fun with Python Code
 ```
 `print("Roses are red")`
@@ -44,6 +37,13 @@ Roses are wrong
 Pilots are blue  
 I love to watch The Bachelor with my wife too  
 
+
+### R Code Block
+```r
+library(tidyverse)
+df <- read_csv("some_file.csv")
+head(df)
+```
 
 ### Inline Code
 `x+y`
