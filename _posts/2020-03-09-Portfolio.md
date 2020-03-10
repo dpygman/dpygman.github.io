@@ -1,5 +1,5 @@
 ---
-title: "Protfolio Website Buildout"
+title: "Portfolio Website Buildout"
 date: 2020-03-09
 tags: [website, user interface]
 excerpt: "Website Build"
