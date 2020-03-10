@@ -1,4 +1,10 @@
 
+---
+title: "About"
+permalink: /_pages/about.md/
+header:
+   image: "/assets/images/HeaderA2.jpeg"
+
 defaults:
   # _posts
   - scope:
@@ -6,11 +12,5 @@ defaults:
       type: posts
     values:
       author_profile: true
-
----
-title: "About"
-permalink: /_pages/about.md/
-header:
-   image: "/assets/images/HeaderA2.jpeg"
 
 ---
