@@ -1,6 +1,6 @@
 ---
 title: "Certificates"
-permalink: /certificates/
+permalink: /_pages/certificates.md/
 header:
    image: "/assets/images/HeaderA2.jpeg"
 
@@ -17,3 +17,4 @@ header:
 
 
 # Computer Science
+
