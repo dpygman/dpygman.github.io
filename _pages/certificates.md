@@ -10,11 +10,11 @@ header:
 1. (https://www.coursera.org/account/accomplishments/verify/F9W3EW2EVM4H ""Machine Learning with Python, IBM")
    - Recommender Systems, Content-Based Retrieval, Collaborative Filtering
 
-# SQL
+      # SQL
 
 
-# Open Source
+      # Open Source
 
 
-# Computer Science
+      # Computer Science
 
