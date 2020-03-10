@@ -1,9 +1,4 @@
 ---
-title: "Certificates"
-permalink: /_pages/certificates.md/
-header:
-   image: "/assets/images/HeaderA2.jpeg"
-
 defaults:
   # _pages
   - scope:
@@ -12,6 +7,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+title: "Certificates"
+permalink: /_pages/certificates.md/
+header:
+   image: "/assets/images/HeaderA2.jpeg"
 
 ---
 
