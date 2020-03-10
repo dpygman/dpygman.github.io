@@ -1,6 +1,6 @@
 ---
 title: "Certificates"
-permalink: /certificates.md/
+permalink: /_pages/certificates.md/
 header:
    image: "/assets/images/HeaderA2.jpeg"
 
