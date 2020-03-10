@@ -2,8 +2,8 @@
 main:
 - title: "Certificates"
   url: /_pages/certificates.md/
-  #- title: "Python"
-  #  url: 
+- title: "Portfolio"
+  url: /_pages/portfolio.md/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
