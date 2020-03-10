@@ -1,3 +1,12 @@
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+
 ---
 title: "About"
 permalink: /_pages/about.md/
