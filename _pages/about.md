@@ -1,4 +1,3 @@
-
 ---
 title: "About"
 permalink: /_pages/about.md/
