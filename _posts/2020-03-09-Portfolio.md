@@ -52,4 +52,6 @@ alert("Welcome to my website.");
 ```
 
 ### Inline Code:
-`x+y`
+```Inline Code
+x+y
+```
