@@ -49,8 +49,3 @@ head(df)
 ```javascript
 alert("Welcome to my website.");
 ```
-
-### Inline Code:
-```Inline Code
-'x+y'
-```
