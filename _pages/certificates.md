@@ -3,8 +3,6 @@ title: "Certificates"
 permalink: /_pages/certificates.md/
 
 author_profile: true
-header:
-   image: "/assets/images/Header2.jpeg"
 
 ---
 
