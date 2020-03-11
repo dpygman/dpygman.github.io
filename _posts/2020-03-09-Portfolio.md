@@ -47,7 +47,8 @@ head(df)
 
 ### Javascript
 
-```alert("Welcome to my website.");
+```javascript
+alert("Welcome to my website.");
 ```
 
 ### Inline Code:
