@@ -45,5 +45,10 @@ df <- read_csv("some_file.csv")
 head(df)
 ```
 
+### Javascript
+
+```alert("Welcome to my website.");
+```
+
 ### Inline Code:
 `x+y`
