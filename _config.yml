@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Welcome to David's Portfolio"
 title_separator          : "-"
-subtitle                 : "Data Science and Business Intelligence, AI and Machine Learning, Software Engineering" # site tagline that appears below site title in masthead
+subtitle                 : "Data Science, Business Intelligence, AI, Machine Learning, Software Engineering" # site tagline that appears below site title in masthead
 name                     : "David R. Pygman, MBA"
 description              : "Data Scientist, Business Intelligence, Healthcare, Software Development"
 url                      : "https://dpygman.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
