@@ -15,10 +15,18 @@ author_profile: true
    - Waffle Chart, Word Clouds, Seaborn, Regression, Pandas, matplotlib, Folium, Stamen Maps, Dictionaries, Mapbox, Chorpleth, JSON, Histograms, Bar Charts, Plotting
 4. [Data Analysis with Python, IBM](https://www.coursera.org/account/accomplishments/verify/7RGGUNZ3NY7W "Data Analysis with Python, IBM")
    - Regression, Polynomials, Prediction, Decision Tress, Distribution, Dataframes, Missing Data, EDA, Boxplot, Group By, Heatmaps, Correlation, Variance, Anova, Visualizations, MLR
-5. [Databases and SQL for Data Science, IBM](https://www.coursera.org/account/accomplishments/verify/AGXYMXGVPUTW "Databases and SQL for Data Science, IBM")
+
+# SQL
+1. [Databases and SQL for Data Science, IBM](https://www.coursera.org/account/accomplishments/verify/AGXYMXGVPUTW "Databases and SQL for Data Science, IBM")
    - SQL, SQL Server, SQL Standards, Statements, Cloud, Schema, Nested, Jupyter Notebook, DB2, RDBMS, PostgreSQL, PyMongo, Python DB API, CSV Files
-6. [Open Source Tools for Data Science, IBM](https://www.coursera.org/account/accomplishments/verify/46BJZNEXKTBF "Open Source Tools for Data Science, IBM")
+
+# Open Source Tools
+1. [Open Source Tools for Data Science, IBM](https://www.coursera.org/account/accomplishments/verify/46BJZNEXKTBF "Open Source Tools for Data Science, IBM")
    - Apache Zeppelin, Markdown, Rstudio, IBM CLoud, Regression, Pandas, Neural Networks, Machine Learning, Deep Learning, Zigbee
-7. [Data Science Methodology, IBM](https://www.coursera.org/account/accomplishments/verify/DRJ8LSVWZ9WY "Data Science Methodology, IBM")
+
+# Data Science Methodology
+1. [Data Science Methodology, IBM](https://www.coursera.org/account/accomplishments/verify/DRJ8LSVWZ9WY "Data Science Methodology, IBM")
    - Django, Database Design, Modeling, Data Mining, Data Modeling, Dataframes
-8. [What is Data Science?, IBM](https://www.coursera.org/account/accomplishments/verify/J9Z3H5RFS3GA "What is Data Science?, IBM")
+2. [What is Data Science?, IBM](https://www.coursera.org/account/accomplishments/verify/J9Z3H5RFS3GA "What is Data Science?, IBM")
+   - Data Science, Data Science Tools, Dataframes, Data Clean Up, Missing Data
+
