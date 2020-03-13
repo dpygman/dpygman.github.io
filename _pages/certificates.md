@@ -6,6 +6,11 @@ author_profile: true
 
 ---
 
+# Program Specializations
+
+1. [IBM Data Science](https://www.coursera.org/account/accomplishments/specialization/GYCKT9JHP337 "IBM Data Science")
+   - Completion of IBM Data Science Program Certification
+
 # Python
 1. [Machine Learning with Python, IBM](https://www.coursera.org/account/accomplishments/verify/A5NA6EUL5QZN "Machine Learning with Python, IBM")
    - Recommender Systems, Content-Based Retrieval, Collaborative Filtering
