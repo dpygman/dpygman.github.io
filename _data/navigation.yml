@@ -6,8 +6,8 @@ main:
   url: /_pages/certificates.md/
 - title: "Portfolio"
   url: /_pages/portfolio.md/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Python"
+  url: /_pages/python.md/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
