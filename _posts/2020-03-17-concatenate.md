@@ -11,11 +11,11 @@ Hello and welcome to a quick overview of concatenating multiple string variables
 #### Example 1: How to concatenate with _NO_ spaces between the string variables:
 
 ```
-a = "I"
-b = "love"
-c = "Python!"
+>>>a = "I"
+>>>b = "love"
+>>>c = "Python!"
 
-print(a+b+c)
+>>>print(a+b+c)
 ```
 IlovePython!
 
@@ -24,11 +24,11 @@ Now, notice the difference using commas:
 #### Example 2: How to concatenate with spaces between the string variables:
 
 ```
-a = "I"
-b = "love"
-c = "Python!"
+>>>a = "I"
+>>>b = "love"
+>>>c = "Python!"
 
-print(a,b,c)
+>>>print(a,b,c)
 ```
 I love Python!
 
