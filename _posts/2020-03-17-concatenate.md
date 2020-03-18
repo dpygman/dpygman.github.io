@@ -6,7 +6,7 @@ excerpt: "Concatenating Multiple String Variables"
 
 ---
 
-Hello and welcomne to a quick overview of concatenating multiple string variables into a sentence.
+Hello and welcome to a quick overview of concatenating multiple string variables into a sentence. Please note, Python variables are case sensitive, so capitalization matters.
 
 #### Example 1: How to concatenate with _NO_ spaces between the string variables:
 
@@ -29,3 +29,9 @@ c = "Python!"
 print(a,b,c)
 ```
 I love Python!
+
+### Variable Naming Restrictions
+1. No Python keywords or functions
+2. No spaces
+3. Only letters or underscores as a line's first text
+4. Only composed of letters, numbers, and underscores
