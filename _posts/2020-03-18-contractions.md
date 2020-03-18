@@ -17,6 +17,8 @@ Since many programmers avoid informal writting, they many never learn how to uti
 
 Note: While utilizing "double quotes" resolves the potential issue, many programers prefer to utilize 'single quotes' to reduce shift keystrokes (e.g., shift + ").
 
+---
+
 ### So how do 'single quote' programmers insert contractions into a string?
 
 __Single Quote Example:__
@@ -27,6 +29,8 @@ __Single Quote Example:__
 can't
 
 Inserting the backslash \ symbol instructed Python to continue past the 'single quote' to close the string.
+
+---
 
 __Double Quote Example__
 ```
