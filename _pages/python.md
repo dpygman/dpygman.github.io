@@ -23,7 +23,7 @@ Programmers write computer program instructions in a __programming language__, t
 #### Subjects and Predicates
 Just like the English language, Python code contains subjects and predicates.
 
-__Subject__ = Person, Place, or Thing
+__Subject__ = Person, Place, or Thing  
 __Predicate__ = What the Subject is doing. An action or verb.
 
 __Example:__
