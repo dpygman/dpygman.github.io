@@ -8,8 +8,18 @@ excerpt: "Concatenating Multiple String Variables"
 
 Hello and welcomne to a quick overview of concatenating multiple string variables into a sentence.
 
+#### Example 1: How to concatenate with NO spaces between the string variables:
 
-#### Example: How to concatenate with spaces between the string variables:
+```
+a = "I"
+b = "love"
+c = "Python!"
+
+print(a+b+c)
+```
+IlovePython!
+
+#### Example 2: How to concatenate with spaces between the string variables:
 
 ```
 a = "I"
