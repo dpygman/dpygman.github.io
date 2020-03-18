@@ -12,7 +12,7 @@ The Python programming language's name references back to the BBC's comedy show 
 
 ![monty](https://user-images.githubusercontent.com/60493854/76994400-8b3fea80-690b-11ea-9210-bd9f12c9f6d5.jpg)
 
-__What is a computer program?
+__What is a computer program?__
 
 A computer program is a list of instructions that tells a computer what to do step-by-step to produce a desired outcome.
 
@@ -30,12 +30,12 @@ __Example:__
 
 John loves to program in Python.
 
-Subject = John
+Subject = John  
 Predicate = program
 
 #### Syntax and Semantics
 
-__Syntax__ = Instruction Writting Rules
+__Syntax__ = Instruction Writting Rules  
 __Semantics__ = Instruction's Effect
 
 #### Python as a Programming Language
