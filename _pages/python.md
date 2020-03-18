@@ -27,7 +27,7 @@ __Subject__ = Person, Place, or Thing
 __Predicate__ = What the Subject is doing. An action or verb.
 
 ```
-__Example:__
+Example:
 
 John loves to program in Python.
 
