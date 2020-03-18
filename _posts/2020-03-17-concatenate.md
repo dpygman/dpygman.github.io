@@ -1,8 +1,8 @@
 ---
-title: "Concatenating Multiple String Variables"
+title: "Python: Concatenating Multiple String Variables"
 date: 2020-03-17
-tags: [python, variables, strings, text, spaces]
-excerpt: "Concatenating Multiple String Variables"
+tags: [python, variables, strings, text, spaces, concatenating]
+excerpt: "Python Concatenating Multiple String Variables"
 
 ---
 
