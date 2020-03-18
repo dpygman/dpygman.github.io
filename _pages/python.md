@@ -18,13 +18,13 @@ A computer program is a list of instructions that tells a computer what to do st
 
 __So what is a programming language?__
 
-Programmers write computer program instructions in a __programming language__, the same way a person might write instruction in english, so an English speaker can read and follow them. Just like there are multiple human languages (e.g., English, Spanish, French, etc.), there are many programming languages (e.g., Python, Java, C++, etc.).
+Programmers write computer program instructions in a programming language, the same way a person might write instruction in english, so an English speaker can read and follow them. Just like there are multiple human languages (e.g., English, Spanish, French, etc.), there are many programming languages (e.g., Python, Java, C++, etc.).
 
 #### Subjects and Predicates
 Just like the English language, Python code contains subjects and predicates.
 
-__Subject__ = Person, Place, or Thing  
-__Predicate__ = What the Subject is doing. An action or verb.
+Subject = Person, Place, or Thing  
+Predicate = What the Subject is doing. An action or verb.
 
 __Example:__
 
@@ -35,9 +35,8 @@ Predicate = program
 
 #### Syntax and Semantics
 
-__Syntax__ = Instruction Writting Rules  
-__Semantics__ = Instruction's Effect
+Syntax = Instruction Writting Rules  
+Semantics = Instruction's Effect
 
 #### Python as a Programming Language
 Python is a relatively simple and flexible programming language that allows the programmer to build interchangable modules of code that can be lifted out of one program and easily placed into another.
-
