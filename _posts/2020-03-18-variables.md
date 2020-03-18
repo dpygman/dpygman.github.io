@@ -23,10 +23,14 @@ For example:
 
 ### Variable Data Types = Any (e.g., numbers, strings, outputs, etc.)
 
+---
+
 ### What is assignment? Assignment is the process of storing a value in a variable.
 In the example above, we assigned the value 6 to the length variable and the value 2 to the width variable.
 
 Think: __Variable = Value__
+
+---
 
 ### What is an expression? An expression is a combination of variable (e.g., numbers, words, symbols, etc.) that the computer program processes to produce an output or result.
 In the example above, the expression is 12. We arrived at 12 by multiplying the values 6 and 2 (i.e., length * width).
@@ -34,6 +38,8 @@ In the example above, the expression is 12. We arrived at 12 by multiplying the 
 In programming, variables are important, because variables let you perform operations on data that may change.
 
 Usually, you can name variables whatever you want, just avoid the following:
+
+---
 
 ### Variable Naming Restrictions
 1. No Python keywords or functions
