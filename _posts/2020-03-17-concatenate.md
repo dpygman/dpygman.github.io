@@ -33,9 +33,3 @@ print(a,b,c)
 I love Python!
 
 The output "I love Python!" now contains spaces between the text.
-
-### Variable Naming Restrictions
-1. No Python keywords or functions
-2. No spaces
-3. Only letters or underscores as a line's first text
-4. Only composed of letters, numbers, and underscores
