@@ -9,7 +9,6 @@ excerpt: "Python Concatenating Multiple Text String Variables"
 Hello and welcome to a quick overview of concatenating multiple string variables into a sentence. Please note, Python variables are case sensitive, so capitalization matters.
 
 #### Example 1: How to concatenate with _NO_ spaces between the string variables:
-
 ```
 >>>a = "I"
 >>>b = "love"
@@ -19,10 +18,11 @@ Hello and welcome to a quick overview of concatenating multiple string variables
 ```
 IlovePython!
 
+---
+
 Now, notice the difference using commas:
 
 #### Example 2: How to concatenate with spaces between the string variables:
-
 ```
 >>>a = "I"
 >>>b = "love"
