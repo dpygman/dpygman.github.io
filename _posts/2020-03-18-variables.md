@@ -1,7 +1,7 @@
 ---
 title: "Python: Introduction to Variables"
 date: 2020-03-18
-tags: [python, variables, assignment, expression]
+tags: [python, variables, assignment, expression, naming restrictions]
 excerpt: "Python: Introduction to Variables"
 
 ---
