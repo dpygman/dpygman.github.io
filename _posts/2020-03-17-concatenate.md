@@ -32,7 +32,7 @@ print(a,b,c)
 ```
 I love Python!
 
-The output "I love Python!" now contains sapces between the text.
+The output "I love Python!" now contains spaces between the text.
 
 ### Variable Naming Restrictions
 1. No Python keywords or functions
