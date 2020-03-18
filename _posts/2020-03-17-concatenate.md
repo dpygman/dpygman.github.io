@@ -19,6 +19,8 @@ print(a+b+c)
 ```
 IlovePython!
 
+Now, notice the difference using commas:
+
 #### Example 2: How to concatenate with spaces between the string variables:
 
 ```
@@ -29,6 +31,8 @@ c = "Python!"
 print(a,b,c)
 ```
 I love Python!
+
+The output "I love Python!" now contains sapces between the text.
 
 ### Variable Naming Restrictions
 1. No Python keywords or functions
