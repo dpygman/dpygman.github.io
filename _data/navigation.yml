@@ -6,7 +6,7 @@ main:
   url: /_pages/certificates.md/
 - title: "Portfolio"
   url: /_pages/portfolio.md/
-  - title: "Python"
+- title: "Python"
   url: /_pages/python.md/
   # - title: "Sample Collections"
   #   url: /collection-archive/
