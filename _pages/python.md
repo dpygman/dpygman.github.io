@@ -26,14 +26,12 @@ Just like the English language, Python code contains subjects and predicates.
 __Subject__ = Person, Place, or Thing  
 __Predicate__ = What the Subject is doing. An action or verb.
 
-```
-Example:
+__Example:__
 
 John loves to program in Python.
 
 Subject = John  
 Predicate = program
-```
 
 #### Syntax and Semantics
 
