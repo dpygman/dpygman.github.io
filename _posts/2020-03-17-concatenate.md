@@ -8,7 +8,7 @@ excerpt: "Concatenating Multiple String Variables"
 
 Hello and welcomne to a quick overview of concatenating multiple string variables into a sentence.
 
-#### Example 1: How to concatenate with NO spaces between the string variables:
+#### Example 1: How to concatenate with _NO_ spaces between the string variables:
 
 ```
 a = "I"
