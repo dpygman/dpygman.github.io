@@ -20,7 +20,7 @@ A computer program is a list of instructions that tells a computer what to do st
 
 __So what is a programming language?__
 
-Programmers write computer program instructions in a programming language, the same way a person might write instruction in english, so an English speaker can read and follow them. Just like there are multiple human languages (e.g., English, Spanish, French, etc.), there are many programming languages (e.g., Python, Java, C++, etc.).
+Programmers write computer program instructions in a programming language, the same way a person might write instruction in English, so an English speaker can read and follow them. Just like there are multiple human languages (e.g., English, Spanish, French, etc.), there are many programming languages (e.g., Python, Java, C++, etc.).
 
 ---
 
