@@ -48,3 +48,6 @@ Semantics = Instruction's Effect
 
 #### Python as a Programming Language
 Python is a relatively simple and flexible programming language that allows the programmer to build interchangable modules of code that can be lifted out of one program and easily placed into another.
+
+#### Python's Programming Application
+Python is great for writing small, self-contained scripts. Python is not always the best choice for large software projects with a lot of infrastructure.
