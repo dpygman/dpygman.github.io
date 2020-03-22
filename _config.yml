@@ -20,10 +20,10 @@ title                    : "Welcome to David's Portfolio"
 title_separator          : "-"
 subtitle                 : "Data Science, Business Intelligence, AI, Machine Learning, Software Development" # site tagline that appears below site title in masthead
 name                     : "David R. Pygman, MBA"
-description              : "Data Scientist, Business Intelligence, Healthcare, Software Development"
+description              : "Data Science, Business Intelligence, AI, Machine Learning, Software Development"
 url                      : "https://dpygman.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/dpygman" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "assets/images/Code512.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
