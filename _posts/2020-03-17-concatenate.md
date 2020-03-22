@@ -39,5 +39,5 @@ I love Python!
 The output "I love Python!" now contains spaces between the text.
 
 #### Conclusion
-Concatenating utilizes the plus sign between strings to create a single, long run-on string. If the intent is to create something like a sentence utilizing different strings, then commas are the best way to go.
+Concatenating utilizes the plus sign between strings to create a single, long run-on string. If the intent is to create something like a sentence utilizing different strings, then commas are the way to go.
 
