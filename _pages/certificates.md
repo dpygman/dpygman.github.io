@@ -10,17 +10,17 @@ author_profile: true
 
 1. [IBM Data Science](https://www.coursera.org/account/accomplishments/specialization/GYCKT9JHP337 "IBM Data Science")
    - Completion of IBM Data Science Program Certification
-2. [Google: IT Automation with Python](https://www.coursera.org/account/accomplishments/verify/YTXAL2L8QJBD "Google: IT Automation with Python")
-   - Completion of Google: IT Automation with Python Certification
 
 ### Python
-1. [Machine Learning with Python, IBM](https://www.coursera.org/account/accomplishments/verify/A5NA6EUL5QZN "Machine Learning with Python, IBM")
+1. [Google: IT Automation with Python](https://www.coursera.org/account/accomplishments/verify/YTXAL2L8QJBD "Google: IT Automation with Python")
+   - Automation, While Loops, Breaking Infinate Loops, For Loops Nested Loops, Recursion, Advanced Strings, Lists, Tuples, Dictionaries, Object-Oriented Programming, Classes, Code Reuse, Python Modules
+2. [Machine Learning with Python, IBM](https://www.coursera.org/account/accomplishments/verify/A5NA6EUL5QZN "Machine Learning with Python, IBM")
    - Recommender Systems, Content-Based Retrieval, Collaborative Filtering
-2. [Python for Data Science and AI, IBM](https://www.coursera.org/account/accomplishments/verify/N3WGRJN55JM9 "Python for Data Science and AI, IBM")
+3. [Python for Data Science and AI, IBM](https://www.coursera.org/account/accomplishments/verify/N3WGRJN55JM9 "Python for Data Science and AI, IBM")
    - Python, AI, Machine Learning, Deep Learning, API, Pandas, Web Services, matplotlib, Translation, IBM CLoud, Speech to Text, Language Translation, NumPy, Dataframes, LOC, BLOC, Methods, Attributes, Objects, Classes, Functions, Loops, Branching and Merging
-3. [Data Visualization with Python, IBM](https://www.coursera.org/account/accomplishments/verify/F9W3EW2EVM4H "Data Visualization with Python, IBM")
+4. [Data Visualization with Python, IBM](https://www.coursera.org/account/accomplishments/verify/F9W3EW2EVM4H "Data Visualization with Python, IBM")
    - Waffle Chart, Word Clouds, Seaborn, Regression, Pandas, matplotlib, Folium, Stamen Maps, Dictionaries, Mapbox, Chorpleth, JSON, Histograms, Bar Charts, Plotting
-4. [Data Analysis with Python, IBM](https://www.coursera.org/account/accomplishments/verify/7RGGUNZ3NY7W "Data Analysis with Python, IBM")
+5. [Data Analysis with Python, IBM](https://www.coursera.org/account/accomplishments/verify/7RGGUNZ3NY7W "Data Analysis with Python, IBM")
    - Regression, Polynomials, Prediction, Decision Tress, Distribution, Dataframes, Missing Data, EDA, Boxplot, Group By, Heatmaps, Correlation, Variance, Anova, Visualizations, MLR
 
 ### SQL
