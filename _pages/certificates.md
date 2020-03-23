@@ -13,7 +13,7 @@ author_profile: true
 
 ### Python
 1. [Google: IT Automation with Python](https://www.coursera.org/account/accomplishments/verify/YTXAL2L8QJBD "Google: IT Automation with Python")
-   - Automation, While Loops, Breaking Infinate Loops, For Loops Nested Loops, Recursion, Advanced Strings, Lists, Tuples, Dictionaries, Object-Oriented Programming, Classes, Code Reuse, Python Modules
+   - Automation, While Loops, Breaking Infinate Loops, For Loops, Nested Loops, Recursion, Advanced Strings, Lists, Tuples, Dictionaries, Object-Oriented Programming, Classes, Code Reuse, Python Modules
 2. [Machine Learning with Python, IBM](https://www.coursera.org/account/accomplishments/verify/A5NA6EUL5QZN "Machine Learning with Python, IBM")
    - Recommender Systems, Content-Based Retrieval, Collaborative Filtering
 3. [Python for Data Science and AI, IBM](https://www.coursera.org/account/accomplishments/verify/N3WGRJN55JM9 "Python for Data Science and AI, IBM")
