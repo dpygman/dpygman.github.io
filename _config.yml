@@ -95,7 +95,7 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : "Person" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: "http://www.linkedin.com/in/dpygman" # An array of links to social media profiles
+  links                  : "http://www.linkedin.com/in/dpygman" # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "David R. Pygman, MBA"
   avatar           : "/assets/images/David2.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist, Business Intelligence, Healthcare, Software Development"
+  bio              : "Data Science, Business Intelligence, AI, Machine Learning, Software Development"
   location         : "Scottsdale, AZ"
   email            :
   links:
