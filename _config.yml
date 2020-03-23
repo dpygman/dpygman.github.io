@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "David R. Pygman, MBA"
   avatar           : "/assets/images/David2.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science, Business Intelligence, AI, Machine Learning, Software Development"
+  bio              : "Data Science, Business Intelligence, AI, Machine Learning, Software"
   location         : "Scottsdale, AZ"
   email            :
   links:
