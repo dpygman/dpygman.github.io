@@ -12,7 +12,7 @@ author_profile: true
    - Completion of IBM Data Science Program Certification
 
 ### Python
-1. [Google: IT Automation with Python](https://www.coursera.org/account/accomplishments/verify/YTXAL2L8QJBD "Google: IT Automation with Python")
+1. [IT Automation with Python, Google](https://www.coursera.org/account/accomplishments/verify/YTXAL2L8QJBD "IT Automation with Python, Google")
    - Automation, While Loops, Breaking Infinate Loops, For Loops, Nested Loops, Recursion, Advanced Strings, Lists, Tuples, Dictionaries, Object-Oriented Programming, Classes, Code Reuse, Python Modules
 2. [Machine Learning with Python, IBM](https://www.coursera.org/account/accomplishments/verify/A5NA6EUL5QZN "Machine Learning with Python, IBM")
    - Recommender Systems, Content-Based Retrieval, Collaborative Filtering
