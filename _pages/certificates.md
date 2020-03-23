@@ -10,8 +10,8 @@ author_profile: true
 
 1. [IBM Data Science](https://www.coursera.org/account/accomplishments/specialization/GYCKT9JHP337 "IBM Data Science")
    - Completion of IBM Data Science Program Certification
-2. Google Automation with Python
-   - __In Progress:__ Google Automation Certification
+2. [Google: IT Automation with Python](https://www.coursera.org/account/accomplishments/verify/YTXAL2L8QJBD "Google: IT Automation with Python")
+   - Completion of Google: IT Automation with Python Certification
 
 ### Python
 1. [Machine Learning with Python, IBM](https://www.coursera.org/account/accomplishments/verify/A5NA6EUL5QZN "Machine Learning with Python, IBM")
