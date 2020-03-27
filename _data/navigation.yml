@@ -4,8 +4,8 @@ main:
   url: /_pages/about.md/
 - title: "Certificates"
   url: /_pages/certificates.md/
-- title: "Portfolio"
-  url: /_pages/portfolio.md/
+- title: "Projects"
+  url: /_pages/projects.md/
 - title: "Python"
   url: /_pages/python.md/
   # - title: "Sample Collections"
