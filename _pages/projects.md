@@ -1,5 +1,5 @@
 ---
-title: "Portfolio"
+title: "Projects"
 permalink: /_pages/projects.md/
 
 author_profile: true
