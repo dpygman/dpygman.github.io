@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-permalink: /_pages/portfolio.md/
+permalink: /_pages/projects.md/
 
 author_profile: true
 
