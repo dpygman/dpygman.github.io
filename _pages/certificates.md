@@ -17,7 +17,7 @@ author_profile: true
 
 ### Networking
 1. [The Bits and Bytes of Computer Networking, Google](https://www.coursera.org/account/accomplishments/certificate/NYZHHA3D69P7 "The Bits and Bytes of Computer Networking, Google")
-   - Layers (i.e., Physical, Data Link, Network, Transport, Application), Subnetting, Routing, Protocols, Handshakes, Control Flags, Ports, Firewalls, The OSI Model, DNS and DNS Zones, TCP and UDP, Domain Names, DHCP, NAT, IPv4 and IPv6, Tunneling, VPNS, Proxies, Broadband, WANs, Wireless Technologies, Channels, Wireless Security, Mobile device Networks, Error Dection and Recorvery, Traceroute, Name Resolution, Public DNS Servers, DNS Registration and Expiration, Host Files, Loopback Addresses, The Cloud, Virtualization, Hypervisor, IaaS, PaaS, SaaS, Cloud Storage, IPv6 and IPv4 Compatibility
+   - Layers (i.e., Physical, Data Link, Network, Transport, Application), Subnetting, Routing, Protocols, Handshakes, Control Flags, Ports, Firewalls, The OSI Model, DNS and DNS Zones, TCP and UDP, Domain Names, DHCP, NAT, IPv4 and IPv6, Tunneling, VPNS, Proxies, Broadband, WANs, Wireless Technologies, Channels, Wireless Security, Mobile Device Networks, Error Dection and Recorvery, Traceroute, Name Resolution, Public DNS Servers, DNS Registration and Expiration, Host Files, Loopback Addresses, The Cloud, Virtualization, Hypervisor, IaaS, PaaS, SaaS, Cloud Storage, IPv6 and IPv4 Compatibility
 
 ### Python
 1. [IT Automation with Python, Google](https://www.coursera.org/account/accomplishments/verify/YTXAL2L8QJBD "IT Automation with Python, Google")
