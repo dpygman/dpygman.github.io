@@ -10,6 +10,10 @@ author_profile: true
 
 1. [IBM Data Science](https://www.coursera.org/account/accomplishments/specialization/GYCKT9JHP337 "IBM Data Science")
    - Completion of IBM Data Science Program Certification
+2. [Applied Data Science, IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/E9HH7T7HXBRM "Applied Data Science, IBM")
+   - Completion of IBM Data Science Program Certification  
+3. [Introduction to Data Science, IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/HVW2WDUSW2AZ "Introduction to Data Science, IBM")
+   - Completion of IBM Data Science Program Certification  
 
 ### Python
 1. [IT Automation with Python, Google](https://www.coursera.org/account/accomplishments/verify/YTXAL2L8QJBD "IT Automation with Python, Google")
@@ -37,3 +41,6 @@ author_profile: true
 2. [What is Data Science?, IBM](https://www.coursera.org/account/accomplishments/verify/J9Z3H5RFS3GA "What is Data Science?, IBM")
    - Data Science, Data Science Tools, Dataframes, Data Clean Up, Missing Data
 
+### Technical Support
+1. [Technical Support Fundamentals, Google](https://www.coursera.org/account/accomplishments/certificate/UC8ZY6UCXR5F "Technical Support Fundamentals, Google")
+   - Computer Networking, Operating Systems, Sys Admin & Infrastructure Services, IT Security
