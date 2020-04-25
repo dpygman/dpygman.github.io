@@ -12,5 +12,6 @@ author_profile: true
 
 ## Internet Technology
 
-1. [Python: Simple Web Server Build](https://dpygman.github.io/webserv1/ "Python: Simple Web Server Build")
+1. [Python: Simple Interpreter Build (Calculator)](https://dpygman.github.io/interpreter/ "Python: Simple Interpreter Build (Calculator)")
+2. [Python: Simple Web Server Build](https://dpygman.github.io/webserv1/ "Python: Simple Web Server Build")
 
