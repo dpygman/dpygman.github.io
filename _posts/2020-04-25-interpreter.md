@@ -1,12 +1,12 @@
 ---
-title: "Python: Simple Interpreter Build (Calculator)"
+title: "Python: Interpreter Build (Calculator)"
 date: 2020-04-25
 tags: [python, interpreter, compiler, calculator]
-excerpt: "Python: Simple Interpreter Build (Calculator)"
+excerpt: "Python: Interpreter Build (Calculator)"
 
 ---
 
-## Python: Simple Interpreter Build (Calculator)
+## Python: Interpreter Build (Calculator)
 
 ### Introduction
 Many programming languages exists. Compilers and Interpreters form the foundation of program language interoperability.
