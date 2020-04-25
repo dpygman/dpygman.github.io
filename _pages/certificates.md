@@ -14,6 +14,8 @@ author_profile: true
    - Completion of IBM Data Science Program Certification  
 3. [Introduction to Data Science, IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/HVW2WDUSW2AZ "Introduction to Data Science, IBM")
    - Completion of IBM Data Science Program Certification  
+4. [Google IT Support Professional](https://www.coursera.org/professional-certificates/google-it-support?skipBrowseRedirect=true "IT Support Professional")
+   - In Progress (Course 3 of 5) Google IT Support Professional Certification
 
 ### Networking
 1. [The Bits and Bytes of Computer Networking, Google](https://www.coursera.org/account/accomplishments/certificate/NYZHHA3D69P7 "The Bits and Bytes of Computer Networking, Google")
