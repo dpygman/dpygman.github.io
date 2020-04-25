@@ -215,7 +215,7 @@ Now that the interpreter accesses token streams generated from integer inputs, t
 
 The method responsible for finding and interpreting that structure is __expr__. The expr method verifies the token sequence corresponds to the expected sequence of tokens (i.e., integer+integer). After confirming the structure, the interpreter generates the result by adding the value of the token on the left side of the PLUS and the right side of the PLUS, thus successfully interpreting the arithmetic expression passed to the interpreter.
 
-The expr method itself uses the helper method eat to verify that the token type passed to the eat method matches the current token type. After matching the passed token type the eat method gets the next token and assigns it to the current_token variable, thus effectively “eating” the currently matched token and advancing the imaginary pointer in the stream of tokens. If the structure in the stream of tokens doesn’t correspond to the expected INTEGER PLUS INTEGER sequence of tokens the eat method throws an exception.
+The expr method itself uses the helper method eat to verify that the token type passed to the eat method matches the current token type. After matching the passed token type the eat method gets the next token and assigns it to the current_token variable, thus effectively “eating” the currently matched token and advancing the imaginary pointer in the stream of tokens. If the structure in the stream of tokens doesn’t correspond to the expected integer plus integer sequence of tokens the eat method throws an exception.
 
 #### Interpreter Functions
 
