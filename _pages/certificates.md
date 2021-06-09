@@ -48,3 +48,10 @@ author_profile: true
 ### Technical Support
 1. [Technical Support Fundamentals, Google](https://www.coursera.org/account/accomplishments/certificate/UC8ZY6UCXR5F "Technical Support Fundamentals, Google")
    - Computer Networking, Operating Systems, Sys Admin & Infrastructure Services, IT Security
+
+### Project Management
+1. [Foundations of Project Management, Google](https://www.coursera.org/account/accomplishments/certificate/9YU6S5CGR9Y3 "Foundations of Project Management, Google")
+2. [Project Planning: Putting it All Together, Google](https://www.coursera.org/account/accomplishments/certificate/2QRHUX82L2H4 "Project Planning: Putting it All Together, Google")
+3. [Project Initiation: Starting a Successful Project, Google](https://www.coursera.org/account/accomplishments/certificate/K2Z8UKVMZFMG "Project Initiation: Starting a Successful Project, Google")
+4. [Project Execution: Running the Project, Google](https://www.coursera.org/account/accomplishments/certificate/NXA83JXLGEMR "Project Execution: Running the Project, Google")
+5. [Agile Project Management, Google](https://www.coursera.org/account/accomplishments/certificate/FPK6QBRLBLKF "Agile Project Management, Google")
