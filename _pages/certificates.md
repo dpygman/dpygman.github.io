@@ -14,6 +14,8 @@ author_profile: true
    - Completion of IBM Data Science Program Certification  
 3. [Introduction to Data Science, IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/HVW2WDUSW2AZ "Introduction to Data Science, IBM")
    - Completion of IBM Data Science Program Certification  
+4. [Value-Based Care, University of Houston](https://www.coursera.org/account/accomplishments/specialization/certificate/BBYC2NCZZ5RH "Value-Based Care, University of Houston")
+   - Completion of University of Houston Value-Based Care Program Certification
 
 ### Networking
 1. [The Bits and Bytes of Computer Networking, Google](https://www.coursera.org/account/accomplishments/certificate/NYZHHA3D69P7 "The Bits and Bytes of Computer Networking, Google")
